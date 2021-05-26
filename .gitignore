@@ -3,6 +3,6 @@ tmp/
 *.DS_Store
 *_backup
 *_old
-tmp.log
+
 
 
